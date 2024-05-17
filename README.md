@@ -4,6 +4,12 @@
 
 Hi! I'm a 3rd-year Computer Science student at the University at Buffalo. I'm passionate about coding, mathematics and problem-solving. I love making progress and constantly pushing my boundaries to achieve new milestones. Currently, I'm working on exciting projects and expanding my skill set in various programming avenues. 
 
+p {
+            line-height: 1.6;
+            margin-bottom: 20px;
+            color: red;
+        }
+
 <p>This is a test of text. This text is <b>bold</b> and this text is <i>italic</i>.</p>
 <!--
    <p align="left">
