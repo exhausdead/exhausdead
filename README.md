@@ -1,4 +1,4 @@
-# Jeremiah Ibarra
+### Jeremiah Ibarra
 
 **`Digital Sorcerer (Developer/Artist/Hustler)`**
 
