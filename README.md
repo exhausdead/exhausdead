@@ -7,7 +7,7 @@ Hi! I'm a 3rd-year Computer Science student at the University at Buffalo. I'm pa
 <p align="middle">This is a test of text. This text is <b>bold</b> and this text is <i>italic</i>.</p>
 
 <a href="https://leetcode.com/u/exhausdead/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="test" width="512" height="512">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="test" width="100" height="100">
 </a>
 
 
