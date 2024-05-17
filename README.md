@@ -8,7 +8,7 @@ Hi! I'm a 3rd-year Computer Science student at the University at Buffalo. I'm pa
 
 ![test](https://www.emmys.com/sites/default/files/styles/slider_images/public/photos-article/magneto-xmen-97-1170x780.jpg?itok=5Cr2XWYp)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="test" width="1080" height="2400">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="test" width="512" height="512">
 
 
 <!--
