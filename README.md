@@ -6,7 +6,7 @@ Hi! I'm a 3rd-year Computer Science student at the University at Buffalo. I'm pa
 
 <p align="middle">This is a test of text. This text is <b>bold</b> and this text is <i>italic</i>.</p>
 
-![test](https://images.app.goo.gl/D6SnyfjWBeETubKv7)
+![test]([https://images.app.goo.gl/D6SnyfjWBeETubKv7](https://www.emmys.com/sites/default/files/styles/slider_images/public/photos-article/magneto-xmen-97-1170x780.jpg?itok=5Cr2XWYp))
 
 
 <!--
