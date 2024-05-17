@@ -5,9 +5,6 @@
 Hi! I'm a 3rd-year Computer Science student at the University at Buffalo. I'm passionate about coding, mathematics and problem-solving. I love making progress and constantly pushing my boundaries to achieve new milestones. Currently, I'm working on exciting projects and expanding my skill set in various programming avenues. 
 
 <p align="middle">This is a test of text. This text is <b>bold</b> and this text is <i>italic</i>.</p>
-
-![test](https://www.emmys.com/sites/default/files/styles/slider_images/public/photos-article/magneto-xmen-97-1170x780.jpg?itok=5Cr2XWYp)
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="test" width="512" height="512">
 
 
