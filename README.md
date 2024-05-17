@@ -1,4 +1,4 @@
-### Jeremiah Ibarra <img src= "https://static.vecteezy.com/system/resources/previews/033/203/070/original/ai-generated-cartoon-robot-on-transparent-background-png.png"/>
+### Jeremiah Ibarra <img src= "https://static.vecteezy.com/system/resources/previews/033/203/070/original/ai-generated-cartoon-robot-on-transparent-background-png.png" width="20" height="20" />
 
 **`Digital Sorcerer (Developer/Artist/Hustler)`**
 
