@@ -4,7 +4,7 @@
 
 Hi! I'm a 3rd-year Computer Science student at the University at Buffalo. I'm passionate about coding, mathematics and problem-solving. I love making progress and constantly pushing my boundaries to achieve new milestones. Currently, I'm working on exciting projects and expanding my skill set in various programming avenues. 
 
-<p style="color: red;">This is a test of text. This text is <b>bold</b> and this text is <i>italic</i>.</p>
+<p align="left">This is a test of text. This text is <b>bold</b> and this text is <i>italic</i>.</p>
 <!--
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
