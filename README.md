@@ -5,7 +5,10 @@
 Hi! I'm a 3rd-year Computer Science student at the University at Buffalo. I'm passionate about coding, mathematics and problem-solving. I love making progress and constantly pushing my boundaries to achieve new milestones. Currently, I'm working on exciting projects and expanding my skill set in various programming avenues. 
 
 <p align="middle">This is a test of text. This text is <b>bold</b> and this text is <i>italic</i>.</p>
+
+<a href="https://leetcode.com/u/exhausdead/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="test" width="512" height="512">
+</a>
 
 
 <!--
