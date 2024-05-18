@@ -1,6 +1,6 @@
 <h2> Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="" width="230">
-<p><em>I am a Computer Science Student at <a href="https://engineering.buffalo.edu/">University at Buffalo</a><img src="" width="30"></br>Currently grinding LeetCode<a href="https://leetcode.com/u/exhausdead/">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>I am a Computer Science Student at <a href="https://engineering.buffalo.edu/">University at Buffalo</a><img src="" width="30"></br>Currently grinding <a href="https://leetcode.com/u/exhausdead/">LeetCode</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <!-- [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
