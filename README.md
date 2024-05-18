@@ -1,5 +1,4 @@
 <h2> Hi! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWs1dno5NjRqejI5c2p3dTd0N2Z5eHBicGhscDA3NXI5ZG8yeG42bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/J4DjJPo55t77lTQX5G/giphy_s.gif" width="50"></h2>
-<img align='right' src="" width="230">
 <p><em>I am a 3rd-year Computer Science Student at <a href="https://engineering.buffalo.edu/">University at Buffalo</a><img src="https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png" width="30"></br>Currently grinding <a href="https://leetcode.com/u/exhausdead/">LeetCode</a><img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" width="30"> 
 </em></p>
 
