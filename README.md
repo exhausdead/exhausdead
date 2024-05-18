@@ -4,7 +4,7 @@
     <title>Align Text with Image</title>
 </head>
 <body>
-    <img src="image.png" alt="Image" align="middle">
+    <img src="https://static.vecteezy.com/system/resources/previews/033/203/070/original/ai-generated-cartoon-robot-on-transparent-background-png.png" alt="Image" align="middle">
     Hello, world!
 </body>
 
