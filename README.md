@@ -8,44 +8,19 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane) -->
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about me...  
 
-```c++
-class Person {
-private:
-    // Private member variables
-    std::string name;
-    int age;
-
-public:
-    // Constructor
-    Person(std::string n, int a) : name(n), age(a) {}
-
-    // Public member function to display person details
-    void displayInfo() {
-        std::cout << "Name: " << name << "\nAge: " << age << std::endl;
-    }
-
-    // Getter for name
-    std::string getName() {
-        return name;
-    }
-
-    // Setter for name
-    void setName(std::string n) {
-        name = n;
-    }
-
-    // Getter for age
-    int getAge() {
-        return age;
-    }
-
-    // Setter for age
-    void setAge(int a) {
-        age = a;
-    }
-};
+```javascript
+const Jeremiah = {
+  code: [C++, Python, HTML, CSS, Javascript],
+  architecture: ["goalMotivated", "workHorse", "problemSolver"],
+  extracurricular : {
+                        tutor: "maths",
+                        byDay: "Student",
+                        byNight: "Bartender"
+                      },
+ dayInDayOut: "When I am not doing school work I am strengthening my programming and math skills"
+}
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
