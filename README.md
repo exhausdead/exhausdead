@@ -1,6 +1,6 @@
 ##### Jeremiah Ibarra <img src= "https://static.vecteezy.com/system/resources/previews/033/203/070/original/ai-generated-cartoon-robot-on-transparent-background-png.png" width="50" height="50" />
 
-<img src="https://imgur.com/Kmh6mHq"/>
+<img src="https://i.imgur.com/Kmh6mHq.png"/>
 
 **`string selfProclaimed() {return "hustler";}`**
     
