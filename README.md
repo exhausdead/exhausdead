@@ -1,4 +1,4 @@
-<h2> Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWs1dno5NjRqejI5c2p3dTd0N2Z5eHBicGhscDA3NXI5ZG8yeG42bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/J4DjJPo55t77lTQX5G/giphy_s.gif" width="50"></h2>
 <img align='right' src="" width="230">
 <p><em>I am a Computer Science Student at <a href="https://engineering.buffalo.edu/">University at Buffalo</a><img src="" width="30"></br>Currently grinding <a href="https://leetcode.com/u/exhausdead/">LeetCode</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
