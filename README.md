@@ -1,7 +1,4 @@
 ##### Jeremiah Ibarra <img src= "https://static.vecteezy.com/system/resources/previews/033/203/070/original/ai-generated-cartoon-robot-on-transparent-background-png.png" width="50" height="50" />
-
-<img src="https://i.imgur.com/Kmh6mHq.png"/>
-
 **`string selfProclaimed() {return "hustler";}`**
     
 
@@ -12,3 +9,5 @@ Hi! I'm a 3rd-year Computer Science student at the University at Buffalo. I'm pa
 <!-- <p align="middle">This is a test of text. This text is <b>bold</b> and this text is <i>italic</i>.</p>
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-LEETCODE-?style=for-the-badge&logo=leetcode_logo_white"/>](https://leetcode.com/u/exhausdead/) -->
+
+<!--<img src="https://i.imgur.com/Kmh6mHq.png"/>--> <!-- slef proclaimed hustler image. might want later-->
