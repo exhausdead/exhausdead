@@ -23,7 +23,7 @@ const Jeremiah = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>This is just the beginning of a path filled with opportunities for growth, learning, and discovery. Each activity I engage in will not only enrich my personal and academic life but also set the foundation for future success. </em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>This is just the beginning of a path filled with opportunities for growth, learning, and discovery. Each activity I continue to engage in will not only enrich my personal and academic life but also set the foundation for future success. </b>
 
 ---
 
