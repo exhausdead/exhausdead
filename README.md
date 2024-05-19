@@ -8,7 +8,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane) -->
 
 
-### <img src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.webp" width="50"> More about me...  
+### <img src="https://64.media.tumblr.com/72d5855e55a1971645b927c14debc7ce/tumblr_mtjget4P4m1ru39xmo1_500.gif" width="50"> More about me...  
 
 ```javascript
 const Jeremiah = {
