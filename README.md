@@ -1,4 +1,4 @@
-<h2> Hi! <img src="https://i.imgur.com/ipBkW9L.gif" width="50"></h2>
+<h2> Hi! <img src="https://www.reef2reef.com/attachments/e9eho5l-gif.886342/" width="50"></h2>
 
 <p><em>I am a 3rd-year Computer Science Student at <a href="https://engineering.buffalo.edu/">University at Buffalo</a><img src="https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png" width="30"></br>Currently grinding <a href="https://leetcode.com/u/exhausdead/">LeetCode</a><img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" width="30"> 
 </em></p>
