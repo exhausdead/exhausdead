@@ -24,6 +24,6 @@ const Jeremiah = {
 }
 ```
 
-<img src="" width="60"> <b>This is just the beginning of opportunity, learning, and growth. Each activity I continue to engage in will not only enrich my academic life but also set the foundation for future success. </b>
+<img src="" width="60"> <b>This is just the beginning of opportunity, learning, and growth. Each activity I continue to engage in will set the foundation for future success. </b>
 
 ---
