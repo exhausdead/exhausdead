@@ -13,10 +13,10 @@
 
 ```javascript
 const Jeremiah = {
-  code: [C++, Python, HTML, CSS, Javascript],
+  code: [OCaml, C++, Python, HTML, CSS, Javascript],
   architecture: ["goalMotivated", "workHorse", "problemSolver"],
   extracurricular : {
-                        tutor: "maths",
+                        TA: "CSE 305",
                         byDay: "Student",
                         byNight: "Bartender"
                       },
