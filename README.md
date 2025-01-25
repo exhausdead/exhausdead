@@ -16,7 +16,6 @@ const Jeremiah = {
   architecture: ["goalMotivated", "workHorse", "problemSolver"],
   extracurricular : {
                         TA: "CSE 305",
-                        former: "Math Tutor",
                         byDay: "Student",
                         byNight: "Bartender"
                       },
