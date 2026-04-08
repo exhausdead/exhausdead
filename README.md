@@ -6,7 +6,7 @@
 
 ---
 
-## [Career Portfolio](https://github.com/j-c-ibarra)
+## [Student Portfolio](https://github.com/j-c-ibarra)
 
 ---
 
