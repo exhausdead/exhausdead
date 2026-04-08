@@ -36,9 +36,6 @@ Currently building core cloud computation fundementals.
 
 ---
 
-[![YouTube Playlist](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtube.com/playlist?list=PL_OWp-y5BRzg_OPR0-yEBPuumWlB5jcLr&si=2LYaQj3HFh-LgsNM)
-
----   
 
 ## Contact
 
