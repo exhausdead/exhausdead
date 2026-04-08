@@ -26,6 +26,8 @@ Objective: I have a lab practical exam coming up where I'll need to write some B
 
 ## Skills
 
+Currently building core cloud computation fundementals.
+
 ---
 
 
