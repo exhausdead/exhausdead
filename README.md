@@ -4,11 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F0EDAD&vCenter=true&width=600&lines=Cloud+Journey;Cloud+Projects)
 
-<audio controls>
-  <source src="https://raw.githubusercontent.com/exhausdead/exhausdead/main/song.mp4" type="audio/mp4">
-  Your browser does not support the audio element.
-</audio>
-
+[▶️ Play Song](https://github.com/exhausdead/exhausdead/blob/main/song.mp4)
 ---
 
 ## Projects   
