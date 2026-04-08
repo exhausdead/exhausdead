@@ -20,6 +20,12 @@
 
 ## Certs
 
+| To Do | In Progress | Complete |
+|------|-------------|----------|
+| AWS Solutions Architect - Associate | AWS Cloud Practitioner |  |
+| AWS Solutions Architect - Professional | HashiCorp Certified: Terraform Associate |  |
+| AWS Security - Specialty |  |  |
+
 ---
 
 ## Contact
