@@ -6,10 +6,6 @@
 
 ---
 
-## [Student Portfolio](https://github.com/j-c-ibarra)
-
----
-
 ## Projects
 
 ---
@@ -25,6 +21,10 @@
 | AWS Solutions Architect - Associate | AWS Cloud Practitioner |  |
 | AWS Solutions Architect - Professional | HashiCorp Certified: Terraform Associate |  |
 | AWS Security - Specialty |  |  |
+
+---
+
+## [Student Portfolio](https://github.com/j-c-ibarra)
 
 ---
 
