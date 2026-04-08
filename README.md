@@ -6,7 +6,11 @@
 
 ---
 
-## Projects
+## Projects   
+
+### In Progress:   
+***Cloud Resource Auditor (Bash)***   
+Objective:
 
 ---
 
