@@ -10,7 +10,7 @@
 
 ### In Progress:   
 [***Cloud Resource Auditor (Bash)***](https://github.com/exhausdead/cloud-resource-auditor)   
-Objective: Brush up on bash   
+Objective: Brush up on Bash   
 I have a lab practical exam coming up where I'll need to write some Bash. Although a Cloud Resource Auditor written in Bash isn't the most ***cloud*** project I could come up with, prepping for my practical is what's most important atm.
 
 ---
