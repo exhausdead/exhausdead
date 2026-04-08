@@ -2,7 +2,7 @@
   <img src="https://giffiles.alphacoders.com/178/17841.gif" width="100%"/>
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FFFF00&vCenter=true&width=600&lines=Cloud+Journey;Cloud+Projects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F0EDAD&vCenter=true&width=600&lines=Cloud+Journey;Cloud+Projects)
 
 ---
 
