@@ -4,7 +4,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F0EDAD&vCenter=true&width=600&lines=Cloud+Journey;Cloud+Projects)
 
-[▶️ Play Song](https://github.com/exhausdead/exhausdead/blob/main/song.mp4)
+<video width="300" controls>
+  <source src="https://raw.githubusercontent.com/your-username/your-repo/main/song.mp4" type="video/mp4">
+</video>
+
 ---
 
 ## Projects   
