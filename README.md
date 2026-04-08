@@ -10,10 +10,6 @@
 
 ---
 
-## Skills
-
----
-
 ## Certs
 
 | To Do | In Progress | Complete |
@@ -23,6 +19,12 @@
 | AWS Security - Specialty |  |  |
 
 ---
+
+## Skills
+
+---
+
+
 
 ## [Student Portfolio](https://github.com/j-c-ibarra)
 
