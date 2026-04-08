@@ -36,6 +36,10 @@ Currently building core cloud computation fundementals.
 
 ---
 
+[![YouTube Playlist](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/playlist?list=PLAYLIST_ID)
+
+---   
+
 ## Contact
 
 <a href="https://www.linkedin.com/in/jeremiahibarra" target="_blank">
